@@ -19,6 +19,23 @@
     <string name="header_line">Fresh Start Empowerment Centre</string>
     <string name="header_extra_line">Get a fresh start in Jesus!</string>
     <string name="app_icon">App Icon</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="fresh_info">
+        "Fresh Start Empowerment Centre is a faith community that will be more than just church. We seek to encourage every man woman and child that is affected by this ministry to not just go through the motions but to have a living vibrant exciting personal with Jesus Christ. \n\nBy releasing inspirational anointed musicians and colorful liberated worship we will encourage an atmosphere of spontaneous direction by the Holy Spirit. That atmosphere will promote a balanced wholeness where everyone is welcome and inspire an incubation for perpetual positive growth. We will have special care for children, people with special needs, the poor the elderly, the weak and will provide a sanctuary to the hurting oppressed addicted afflicted wounded sick and needy. At Fresh Start his mercies are abundant and new as the morning"
+    </string>
+    <string name="location">Location</string>
+    <string name="FSEC_address">1476 Portage Ave</string>
+    <string name="where_prompt">Where:</string>
+    <string name="when_body">10:30 AM</string>
+    <string name="when_prompt">When:</string>
+    <string name="connect_with_us_during_our_service_times">Connect with us during our service times!</string>
+    <string name="sunday">Sunday</string>
+    <string name="set_a_reminder_to_tune_in">Set a reminder to tune in!</string>
+    <string name="get_driving_directions_to_us">Get driving directions!</string>
+    <string name="reminder">reminder</string>
+    <string name="ringcentral_meetings">RingCentral Meetings</string>
+    <string name="_6_45_pm">6:45 PM</string>
+    <string name="at">At</string>
+    <string name="join_the_call_with_the_link">Join the call with the link!</string>
+    <string name="wednesday">Wednesday</string>
 </resources>

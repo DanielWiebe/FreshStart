@@ -7,8 +7,10 @@ import android.view.ViewGroup;
 
 import androidx.fragment.app.Fragment;
 
-public class ServicesFragment extends Fragment {
+import com.shiftdev.freshstartec.databinding.FragmentServicesBinding;
 
+public class ServicesFragment extends Fragment {
+     FragmentServicesBinding binding;
 
      public ServicesFragment() {
 
